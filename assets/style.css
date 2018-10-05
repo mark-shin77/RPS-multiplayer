@@ -23,8 +23,10 @@ hr{
 #player1{
     border: 2px solid white;
     background-color: rgba(127, 255, 212, 0.555);
-    padding: 20px;
+    padding: 10px;
     text-align: center;
+    color: white;
+    font-size: 20px;
 }
 
 #info{
@@ -41,6 +43,8 @@ hr{
     background-color: rgba(238, 130, 238, 0.445);
     padding: 20px;
     text-align: center;
+    color: white;
+    font-size: 20px;
 }
 
 .far{
