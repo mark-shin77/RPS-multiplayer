@@ -15,9 +15,11 @@ body{
     padding: 20px;
     color: white;
 }
+
 hr{
     border: 1px solid white;
 }
+
 #player1{
     margin-top: 5%;
     border: 2px solid white;
@@ -44,6 +46,14 @@ hr{
     text-align: center;
 }
 
+.far{
+    font-size: 25px;
+}
+
+.btn-light{
+    font-weight: bold;
+}
+
 #chat-window{
     background-color: rgba(210, 180, 140, 0.637);
     border: 2px solid white;
@@ -64,7 +74,7 @@ hr{
 #submit-input{
     display: block;
     width: 200px;
-    height: 30px;
+    height: 35px;
     color: black;
     margin-left:auto;
     margin-right: auto;
