@@ -52,3 +52,14 @@ hr{
     text-align: left;
     font-size: 15px;
 }
+
+#chat-input{
+    width: 100%;
+    color: black;
+}
+
+#submit-chat{
+    width: 200px;
+    height: 30px;
+    color: black;
+}
